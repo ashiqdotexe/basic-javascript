@@ -11,3 +11,4 @@ function learn(topic){
 }
 learn("Javascript")
 console.log(`I am learning ${lang}`)
+console.log("Hello world")
